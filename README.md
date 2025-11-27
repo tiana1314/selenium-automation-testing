@@ -34,6 +34,8 @@ https://googlechromelabs.github.io/chrome-for-testing/
 ➜ Place `chromedriver.exe` in the project root folder.
 
 
+### Screen-shots
+
 ![Image shows source code](https://github.com/tiana1314/selenium-automation-testing/blob/main/images/z7269740253848_6f6198a36d3a95702f27323515546678.jpg)
 
 
