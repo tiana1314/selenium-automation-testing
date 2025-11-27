@@ -41,6 +41,5 @@ https://googlechromelabs.github.io/chrome-for-testing/
 
 ##  Author
 **Nguyễn Thị Tú Anh** – Selenium Automation Practice
-```
 
 
