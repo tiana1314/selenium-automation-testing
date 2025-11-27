@@ -27,29 +27,17 @@ src/
 
 ---
 
-##  How to Run
-
-### ** Install Maven dependencies**
-```
-
-mvn clean install
-
-```
-
 ### ** Download ChromeDriver (if not using WebDriverManager)**  
 Get the correct ChromeDriver version here:  
 https://googlechromelabs.github.io/chrome-for-testing/
 
 ➜ Place `chromedriver.exe` in the project root folder.
 
-### ** Run tests**
-```
 
-mvn test
+![Image shows source code](https://github.com/tiana1314/selenium-automation-testing/blob/main/images/z7269740253848_6f6198a36d3a95702f27323515546678.jpg)
 
-```
-or run directly from IntelliJ.
 
+![Image shows source code](https://github.com/tiana1314/selenium-automation-testing/blob/main/images/z7269740856103_4e3124e90b6f9e1f94583604b614bd40.jpg)
 
 ##  Author
 **Nguyễn Thị Tú Anh** – Selenium Automation Practice
